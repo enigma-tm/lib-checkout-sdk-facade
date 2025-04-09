@@ -1,6 +1,12 @@
 ## Checkout SDK
 PHP SDK facade for checkout processing
 
+# Repository outdated
+
+Git repository for this library was moved to https://github.com/paysera/lib-checkout-sdk-facade
+
+**This repository is only in read mode.**
+
 ## Code style
 [PSR-12](https://www.php-fig.org/psr/psr-12)
 
